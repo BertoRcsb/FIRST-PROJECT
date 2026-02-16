@@ -50,4 +50,6 @@ Atualmente, o projeto é bem simples:
 ```text
 first-project/
 ├── index.html   → Página HTML simples para testes
+├── Dockerfile   → Nginx servindo o HTML via container
+├── ronan-devops-gcp-learning-journey.md → Registro da minha evolução (estudos + prática)
 └── README.md    → Documento que explica o projeto e registra a evolução
